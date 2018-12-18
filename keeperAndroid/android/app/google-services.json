@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "104667793059",
+    "firebase_url": "https://keeperandroid-817e7.firebaseio.com",
+    "project_id": "keeperandroid-817e7",
+    "storage_bucket": "keeperandroid-817e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104667793059:android:77bd798e88e8d5d0",
+        "android_client_info": {
+          "package_name": "com.keepereject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104667793059-5d9npdc5arrr29kmcd5mut1q95obc9lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTr-4A54hbowywIal5w1lsXGFnYmi-0BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104667793059:android:5e9f13631a5d2119",
+        "android_client_info": {
+          "package_name": "keeperApp.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104667793059-5d9npdc5arrr29kmcd5mut1q95obc9lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTr-4A54hbowywIal5w1lsXGFnYmi-0BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
